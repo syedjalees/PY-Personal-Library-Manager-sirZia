@@ -24,8 +24,8 @@ Clone the repository (or download the script):
 
 bash
 Copy
-git clone <your-repository-link>
-cd <your-project-directory>
+git clone <https://github.com/syedjalees/PY-Personal-Library-Manager-sirZia>
+cd <PY-Personal-Library-Manager-sirZia>
 Install dependencies (if any, though this project doesn’t require external libraries).
 
 Run the script:
